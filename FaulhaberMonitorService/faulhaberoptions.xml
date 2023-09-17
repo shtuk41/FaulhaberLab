@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<options>
+  <updatePeriodSec>60</updatePeriodSec>
+  <port>COM3</port>
+  <position>20162</position>
+  <tolerance>2016</tolerance>
+  <logDirectory>C:/logs/FaulhaberLog</logDirectory>
+  <address>http://localhost:8082</address>
+  <url>api/asis/v1/monitoring</url>
+</options>  
+  
